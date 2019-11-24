@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">Add Game</string>
+    <string name="deleteBacklog">Delete Backlog</string>
+    <string name="materialCardTitle">Game Title</string>
+    <string name="materialCardPlatform">Level</string>
+    <string name="materialCardDay">Day</string>
+    <string name="materialCardMonth">Month</string>
+    <string name="materialCardYear">Year</string>
+    <string name="materialCardDate">Day-Month-Year</string>
+</resources>
